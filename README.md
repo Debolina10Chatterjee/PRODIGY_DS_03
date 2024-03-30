@@ -29,7 +29,7 @@ To run the code in the Jupyter Notebook, you need the following libraries:
 ```
 https://github.com/Debolina10Chatterjee/PRODIGY_DS_03.git
 ```
-2. Open and run the `decision_tree_classifier.ipynb` notebook in Colab Notebook.
+2. Open and run the `Decision_Tree_Classifier.ipynb` notebook in Colab Notebook.
 
 3. Follow the instructions in the notebook to execute each code cell and analyze the results.
 
